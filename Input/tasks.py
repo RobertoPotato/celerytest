@@ -8,4 +8,4 @@ def new_inputs(*args, **kwargs):
     """insert_data_to_inputs_table"""
     print("Hello")
     add_new_input('hi')
-    run_postpaid_billing()
+    # run_postpaid_billing()
